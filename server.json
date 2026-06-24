@@ -1,0 +1,4 @@
+{
+    "key": "change-me-32-byte-secret-key!!!!",
+    "listen_addr": "0.0.0.0:443"
+}
